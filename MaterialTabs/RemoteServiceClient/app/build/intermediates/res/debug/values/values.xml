@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/androidproj/MaterialTabs/RemoteServiceClient/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Remote Service</string>
+    <string name="bindButton">Bind</string>
+    <string name="invokeButton">Invoke</string>
+    <string name="notApplicable">N/A</string>
+    <string name="releaseButton">Release</string>
+    <string name="serviceStatus">Service Status</string>
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+    <string name="welcome">Hi, This application will demonstrate how a remote service can be started, stopped, bound to and released</string>
+</resources>

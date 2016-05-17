@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Hi, This application will demonstrate how a remote service can be started, stopped, bound to and released</string>
+    <string name="app_name">Remote Service</string>
+<string name="startButton">Start</string>
+<string name="stopButton">Stop</string>
+<string name="bindButton">Bind</string>
+<string name="releaseButton">Release</string>
+<string name="invokeButton">Invoke</string>
+<string name="serviceStatus">Service Status</string>
+<string name="notApplicable">N/A</string>
+</resources>

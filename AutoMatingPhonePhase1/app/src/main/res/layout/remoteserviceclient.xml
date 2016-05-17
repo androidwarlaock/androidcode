@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Welcome"
+    />
+<Button android:id="@+id/startButton"
+	android:text="StartButton"
+	android:layout_gravity="center_horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	>
+	</Button>
+<Button android:id="@+id/stopButton"
+	android:text="stopButton"
+	android:layout_gravity="center_horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	>
+	</Button>
+<Button android:id="@+id/bindButton"
+	android:text="bindButton"
+	android:layout_gravity="center_horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	>
+	</Button>
+<Button android:id="@+id/releaseButton"
+	android:text="releaseButton"
+	android:layout_gravity="center_horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	>
+	</Button>
+<Button android:id="@+id/invokeButton"
+	android:text="invokeButton"
+	android:layout_gravity="center_horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	>
+	</Button>
+<TextView android:id="@+id/notApplicable"
+	android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="notApplicable" />
+<TextView android:id="@+id/serviceStatus"
+	android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="serviceStatus" />
+</LinearLayout>
